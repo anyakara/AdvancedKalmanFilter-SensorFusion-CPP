@@ -1,5 +1,8 @@
 # Advanced Kalman Filtering and Sensor Fusion Simulation #
 
+<img width="1347" alt="Screenshot 2024-11-24 at 10 46 05 PM" src="https://github.com/user-attachments/assets/a3db499a-bf20-4625-9c03-f74b3267e2d8">
+
+
 Welcome to the Advanced Kalman Filtering and Sensor Fusion Simulation exercise project. In this project, you will be developing the source code for a number of different types of Kalman Filters which are used to estimate the navigation state of a 2D vehicle problem; such as that would be found on a self-driving car!
 
 
